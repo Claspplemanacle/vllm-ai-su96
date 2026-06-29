@@ -1,4 +1,4 @@
-# 
+# Advanced vLLM extensions. Featuring data-pipelines and plugin-system — optimized for maximum performance and efficiency.
 
 
 
